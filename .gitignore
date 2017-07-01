@@ -1,0 +1,11 @@
+# Directories
+.idea/
+node_modules/
+dist/
+.tmp/
+.sass-cache/
+bower_components/
+
+# Files
+.DS_Store
+npm-debug.log
